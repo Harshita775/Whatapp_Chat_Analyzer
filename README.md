@@ -1,4 +1,4 @@
-# Whatapp_Chat_Analyzer:chart_with_upwards_trend:
+# Whatapp_Chat_Analyzer :chart_with_upwards_trend:
 The WhatsApp Chat Analyzer is a powerful tool that allows you to upload your WhatsApp chat history in text file format and provides a comprehensive analysis of your conversations. Whether you’re interested in analyzing a specific user’s chat, the overall group activity, or even the chats between two people, this tool offers detailed insights into your WhatsApp interactions. It also removes common Hinglish stop words for a cleaner, more accurate analysis. Additionally, the tool supports various chat formats, including those from iPhone, Android, and other date formats, ensuring seamless compatibility across devices.
 
 The tool leverages popular Python libraries such as Pandas, re (regular expressions), urlextract, wordcloud, Counter, emoji, matplotlib, and seaborn to provide accurate, detailed, and visually appealing analyses.
