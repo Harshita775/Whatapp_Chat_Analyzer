@@ -16,6 +16,27 @@ The WhatsApp Chat Analyzer is a powerful tool that allows you to upload your Wha
 
 + ***User Activity Heat Map:*** Visualizes when users are most active across the day.
 
+## :rocket: Technologies & Libraries Used:
++ ***Pandas:*** For data manipulation and analysis.
+  
++ ***dateutil:*** For flexible and robust date parsing across different chat formats.
+
++ ***re:*** For regular expressions, used in text cleaning and processing.
+
++ ***urlextract:*** To extract and analyze URLs shared in chats.
+
++ ***wordcloud:*** To generate word clouds from chat data.
+
++ ***Counter:*** For counting occurrences of words, messages, or emojis.
+
++ ***emoji:*** For analyzing emoji usage within the chats.
+
++ ***matplotlib:*** For creating visualizations, such as charts and graphs.
+
++ ***seaborn:*** For creating attractive and informative statistical plots.
+
++ ***Streamlit:*** For building the interactive web application interface.
+
 #### :link: Live link: https://huggingface.co/spaces/Harshi775/whatsapp-chat-analyzer
 
 ## :clapper: Preview
