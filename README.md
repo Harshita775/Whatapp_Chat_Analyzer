@@ -4,17 +4,17 @@ The WhatsApp Chat Analyzer is a powerful tool that allows you to upload your Wha
 :rocket: The tool leverages popular Python libraries such as Pandas, re (regular expressions), urlextract, wordcloud, Counter, emoji, matplotlib, and seaborn to provide accurate, detailed, and visually appealing analyses.
 
 ## :ballot_box_with_check: Key Features:
-+ Message Statistics: Displays the number of messages, total words, media shared, and links exchanged.
++ ***Message Statistics:*** Displays the number of messages, total words, media shared, and links exchanged.
 
-+ Timeline Analysis: Visualizes chat activity on daily and monthly timelines, highlighting trends over time.
++ ***Timeline Analysis:*** Visualizes chat activity on daily and monthly timelines, highlighting trends over time.
 
-+ Activity Insights: Identifies the most active day, most active month, and the most active user in your chats.
++ ***Activity Insights:*** Identifies the most active day, most active month, and the most active user in your chats.
 
-+ Word Cloud: Generates a word cloud of the most frequently used words.
++ ***Word Cloud:*** Generates a word cloud of the most frequently used words.
 
-+ Emoji Analysis: Provides a breakdown of emoji usage throughout the chat.
++ ***Emoji Analysis:*** Provides a breakdown of emoji usage throughout the chat.
 
-+ User Activity Heat Map: Visualizes when users are most active across the day.
++ ***User Activity Heat Map:*** Visualizes when users are most active across the day.
 
 #### :link: Live link: https://huggingface.co/spaces/Harshi775/whatsapp-chat-analyzer
 
