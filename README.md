@@ -15,3 +15,6 @@ The WhatsApp Chat Analyzer is a powerful tool that allows you to upload your Wha
 + Emoji Analysis: Provides a breakdown of emoji usage throughout the chat.
 
 + User Activity Heat Map: Visualizes when users are most active across the day.
+
+## :clapper: Preview
+https://github.com/user-attachments/assets/8e4981c6-ad3d-4441-b709-5facacbe3caa
