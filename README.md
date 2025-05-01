@@ -16,5 +16,7 @@ The WhatsApp Chat Analyzer is a powerful tool that allows you to upload your Wha
 
 + User Activity Heat Map: Visualizes when users are most active across the day.
 
+#### :link: Live link: https://huggingface.co/spaces/Harshi775/whatsapp-chat-analyzer
+
 ## :clapper: Preview
 https://github.com/user-attachments/assets/8e4981c6-ad3d-4441-b709-5facacbe3caa
